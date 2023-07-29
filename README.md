@@ -1,2 +1,2 @@
 # cuddly-goggles
-python implementation to show the behaviour of bubble sort algorithm when fed with elements of different sizes.
+A python implementation for comparing  the run time behaviour of bubble sort algorithm to merge sort algorithm  when they are  fed with elements of different sizes.
